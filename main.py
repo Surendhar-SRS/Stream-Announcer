@@ -343,7 +343,7 @@ async def help_command(interaction: discord.Interaction):
         name="🔔 How It Works",
         value=(
             "The bot automatically checks every **2 minutes** for:\n"
-            "• New YouTube videos\n"
+            "• New YouTube videos & Live \n"
             "• Twitch live streams\n"
             "• Kick live streams\n\n"
             "When new content is detected, everyone gets notified!"
